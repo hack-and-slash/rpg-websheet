@@ -1,0 +1,28 @@
+{
+  "name": "rpg-websheet",
+  "version": "1.0.0",
+  "description": "Web version of your favorite Tabletop RPG systems character sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artureiji/rpg-websheet.git"
+  },
+  "keywords": [
+    "dnd",
+    "rpg",
+    "character",
+    "sheet"
+  ],
+  "author": "Artur Eiji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artureiji/rpg-websheet/issues"
+  },
+  "homepage": "https://github.com/artureiji/rpg-websheet#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
